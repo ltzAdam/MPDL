@@ -1,1 +1,19 @@
 
+{
+    "id": 39769638,
+    "name": "Robtop",
+    "author": "TonyGato",
+    "creators": ["TonyGato"],
+    "verifier": "jexamania",
+    "verification": "https://youtu.be/0aqKlSPrWmE?si=ApkLlvFnu-91QwnZ",
+    "percentToQualify": 50,
+    "password": "dont know either :skull:",
+    "records": [
+        {
+            "user": "jexamania",
+            "link": "https://youtu.be/0aqKlSPrWmE?si=ApkLlvFnu-91QwnZ",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
