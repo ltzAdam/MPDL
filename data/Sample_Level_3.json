@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 4957691,
+    "name": "Windy Landscape",
+    "author": "WOOGI1411",
+    "creators": ["WOOGI1411"],
+    "verifier": "MiserablePizza",
+    "verification": "https://youtu.be/iShvrJxmomE?si=O2005jBXUZUE0yoX",
     "percentToQualify": "100",
     "password": "46290",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "MiserablePizza",
+            "link": "https://youtu.be/iShvrJxmomE?si=O2005jBXUZUE0yoX",
             "percent": 100,
-            "hz": 360
+            "hz": 60
         },
         {
             "user": "Sample_Victor_2",
