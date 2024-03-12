@@ -1,1 +1,24 @@
-
+{
+    "id": bro its a main level,
+    "name": "Theory Of Everything II",
+    "author": "RobtopGames",
+    "creators": ["RobtopGames"],
+    "verifier": "joyboiblue",
+    "verification": "https://youtu.be/M-qZrlhXT9g?si=wNU_IbHfrSURAQn_",
+    "percentToQualify": "100",
+    "password": "idk :skull:",
+    "records": [
+        {
+            "user": "joyboiblue",
+            "link": "https://youtu.be/M-qZrlhXT9g?si=wNU_IbHfrSURAQn_",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "MiserablePizza",
+            "link": "https://youtu.be/M-qZrlhXT9g?si=wNU_IbHfrSURAQn_",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
