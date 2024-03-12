@@ -1,1 +1,18 @@
-
+{
+    "id": 101899067,
+    "name": "Aethos",
+    "author": "Incidius",
+    "creators": ["Incidius"],
+    "verifier": "jexamania",
+    "verification": "https://youtu.be/rAqsv9SJxIM?si=HPYXTE4QSu3D1WH-",
+    "percentToQualify": 50,
+    "password": "dont know either :skull:",
+    "records": [
+        {
+            "user": "jexamania",
+            "link": "https://youtu.be/rAqsv9SJxIM?si=HPYXTE4QSu3D1WH-",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
