@@ -1,1 +1,24 @@
-
+{
+    "id": 34085027,
+    "name": "B",
+    "author": "Motleyorc",
+    "creators": ["Motleyorc", "ScorchVX"],
+    "verifier": "MiserablePizza",
+    "verification": "https://youtu.be/qnwOH0q83i4?si=Wr9rb41Eog_ZsKVF",
+    "percentToQualify": 50,
+    "password": "dont know either :skull:",
+    "records": [
+        {
+            "user": "MiserablePizza",
+            "link": "https://youtu.be/qnwOH0q83i4?si=Wr9rb41Eog_ZsKVF",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "jexamania",
+            "link": "https://youtu.be/ohKPqGxotao?si=cq1fqAHJJyrNLkZz",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
