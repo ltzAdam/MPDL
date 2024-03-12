@@ -1,1 +1,18 @@
-
+{
+    "id": 44062068,
+    "name": "Future Funk",
+    "author": "JonathanGD",
+    "creators": ["JonathanGD"],
+    "verifier": "MiserablePizza",
+    "verification": "https://youtu.be/hr8xus6xi_8?si=YcMMhVx1LWyeAw8r",
+    "percentToQualify": 50,
+    "password": "701013",
+    "records": [
+        {
+            "user": "MiserablePizza",
+            "link": "https://youtu.be/hr8xus6xi_8?si=YcMMhVx1LWyeAw8r",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
