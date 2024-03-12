@@ -1,1 +1,18 @@
-
+{
+    "id": 61079355,
+    "name": "Trippy Trippy",
+    "author": "Wulzy",
+    "creators": ["Wulzy"],
+    "verifier": "jexamania",
+    "verification": "https://youtu.be/XRgiNUtJurk?si=01_u0WzDBx1kN8cY",
+    "percentToQualify": 50,
+    "password": "dont know either :skull:",
+    "records": [
+        {
+            "user": "jexamania",
+            "link": "https://youtu.be/XRgiNUtJurk?si=01_u0WzDBx1kN8cY",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
