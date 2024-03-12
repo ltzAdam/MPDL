@@ -1,1 +1,18 @@
-
+{
+    "id": 8660411,
+    "name": "Death Moon",
+    "author": "Caustic",
+    "creators": ["Caustic"],
+    "verifier": "MiserablePizza",
+    "verification": "https://youtu.be/DKtuX1vmsgw?si=i2AohW4Hg4H7oDIS",
+    "percentToQualify": 50,
+    "password": "idk this one",
+    "records": [
+        {
+            "user": "Miserablepizza",
+            "link": "https://youtu.be/DKtuX1vmsgw?si=i2AohW4Hg4H7oDIS",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
