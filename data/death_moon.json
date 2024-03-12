@@ -1,16 +1,16 @@
 {
     "id": 17235008,
-    "name": "Death Moon",
-    "author": "Caustic",
-    "creators": ["Caustic"],
+    "name": "X",
+    "author": "Triaxis",
+    "creators": ["Triaxis"],
     "verifier": "MiserablePizza",
-    "verification": "https://youtu.be/DKtuX1vmsgw?si=i2AohW4Hg4H7oDIS",
+    "verification": "https://www.youtube.com/watch?v=JC18JeojJEQ",
     "percentToQualify": 50,
-    "password": "idk this one",
+    "password": "Not Copyable",
     "records": [
         {
             "user": "Miserablepizza",
-            "link": "https://youtu.be/DKtuX1vmsgw?si=i2AohW4Hg4H7oDIS",
+            "link": "https://www.youtube.com/watch?v=JC18JeojJEQ",
             "percent": 100,
             "hz": 144
         }
