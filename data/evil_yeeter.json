@@ -1,1 +1,18 @@
-
+{
+    "id": 61079355,
+    "name": "Evil Yeeter",
+    "author": "ZubwaR",
+    "creators": ["ZubwaR"],
+    "verifier": "jexamania",
+    "verification": "https://youtu.be/BBYfyq6cLeA?si=qVp19lW1Xa83R20f",
+    "percentToQualify": 50,
+    "password": "dont know either :skull:",
+    "records": [
+        {
+            "user": "jexamania",
+            "link": "https://youtu.be/BBYfyq6cLeA?si=qVp19lW1Xa83R20f",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
