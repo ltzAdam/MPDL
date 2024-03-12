@@ -1,27 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "MiserablePizza",
+        "link": "https://youtube.com/@MiserablePizza?si=ClHzYdrSgqkbWFuO"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "MiserablePizza",
+        "link": "https://youtube.com/@MiserablePizza?si=ClHzYdrSgqkbWFuO"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "MiserablePizza",
+        "link": "https://youtube.com/@MiserablePizza?si=ClHzYdrSgqkbWFuO"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "MiserablePizza",
+        "link": "https://youtube.com/@MiserablePizza?si=ClHzYdrSgqkbWFuO"
     },
     {
         "role": "dev",
-        "name": "List Coder",
+        "name": "i aint coding shit :skull: i thank prometheus tho for the template",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
