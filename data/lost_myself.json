@@ -1,1 +1,18 @@
-
+{
+    "id": 61079355,
+    "name": "Lost Myself",
+    "author": "MaxxoRMeN",
+    "creators": ["MaxxoRMeN"],
+    "verifier": "jexamania",
+    "verification": "https://youtu.be/Mn9iq6cbNY8?si=fuQaPY0ZP1_WwJK_",
+    "percentToQualify": 50,
+    "password": "dont know either :skull:",
+    "records": [
+        {
+            "user": "jexamania",
+            "link": "https://youtu.be/Mn9iq6cbNY8?si=fuQaPY0ZP1_WwJK_",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
