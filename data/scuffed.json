@@ -1,1 +1,19 @@
 
+{
+    "id": 95067312,
+    "name": "Scuffed",
+    "author": "The Goola",
+    "creators": ["The Goola", "NotMiki", "Alkali", "Sparkendary", "Asthae", "ShadowIan", "Jaxz", "Spoofy"],
+    "verifier": "jexamania",
+    "verification": "https://youtu.be/3GzWmvEyFgI?si=ajxx8EkgZILKrXvV",
+    "percentToQualify": 50,
+    "password": "dont know either :skull:",
+    "records": [
+        {
+            "user": "jexamania",
+            "link": "https://youtu.be/3GzWmvEyFgI?si=ajxx8EkgZILKrXvV",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
