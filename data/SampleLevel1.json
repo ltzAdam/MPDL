@@ -1,18 +1,18 @@
 {
     "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "name": "Acu",
+    "author": "Neigefeu",
+    "creators": ["Neigefeu"],
+    "verifier": "Miserablepizza",
+    "verification": "https://youtu.be/Qh9jVQcgUjk?si=VZ5a_EoqBVnQ5e8J",
     "percentToQualify": 56,
-    "password": "Not Copyable",
+    "password": "Free to copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Miserablepizza",
+            "link": "https://youtu.be/Qh9jVQcgUjk?si=VZ5a_EoqBVnQ5e8J",
             "percent": 100,
-            "hz": 360
+            "hz": 144
         }
     ]
 }
