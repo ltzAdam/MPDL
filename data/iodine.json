@@ -1,1 +1,18 @@
-
+{
+    "id": 85695827,
+    "name": "Iodine",
+    "author": "ZubwaR",
+    "creators": ["Sr3k, Shrc"],
+    "verifier": "jexamania",
+    "verification": "https://youtu.be/oqPZiYkA2Fg?si=MWTbvi9rtANMAQPf",
+    "percentToQualify": 50,
+    "password": "dont know either :skull:",
+    "records": [
+        {
+            "user": "jexamania",
+            "link": "https://youtu.be/oqPZiYkA2Fg?si=MWTbvi9rtANMAQPf",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
