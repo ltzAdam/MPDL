@@ -1,1 +1,19 @@
 
+{
+    "id": 77031301,
+    "name": "Flicker",
+    "author": "oli",
+    "creators": ["oli"],
+    "verifier": "oli",
+    "verification": "https://www.youtube.com/watch?v=I9ihNm6cg8k",
+    "percentToQualify": 50,
+    "password": "87462474",
+    "records": [
+        {
+            "user": "oli",
+            "link": "https://www.youtube.com/watch?v=I9ihNm6cg8k",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
