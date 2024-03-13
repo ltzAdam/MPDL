@@ -10,6 +10,18 @@
     "password": "idk",
     "records": [
         {
+            "user": "jexamania",
+            "link": "https://www.youtube.com/watch?v=Xbqdd2RTLjc",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "oli",
+            "link": "https://www.youtube.com/watch?v=Xbqdd2RTLjc",
+            "percent": 100,
+            "hz": 60
+        },
+        {
             "user": "MiserablePizza",
             "link": "https://www.youtube.com/watch?v=Xbqdd2RTLjc",
             "percent": 100,
