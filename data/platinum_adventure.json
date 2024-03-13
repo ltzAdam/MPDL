@@ -1,1 +1,19 @@
 
+{
+    "id": 90293345,
+    "name": "GLHF",
+    "author": "Wetols",
+    "creators": ["Wetols"],
+    "verifier": "MiserablePizza",
+    "verification": "https://youtu.be/g5yJcBoiag0?si=0qQ5IwemGl44GOHs",
+    "percentToQualify": 50,
+    "password": "idk",
+    "records": [
+        {
+            "user": "MiserablePizza",
+            "link": "https://youtu.be/g5yJcBoiag0?si=0qQ5IwemGl44GOHs",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
