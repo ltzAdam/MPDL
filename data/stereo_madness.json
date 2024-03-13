@@ -1,1 +1,19 @@
 
+{
+    "id": 1,
+    "name": "Stereo Madness",
+    "author": "RobtopGames",
+    "creators": ["RobtopGames"],
+    "verifier": "oli",
+    "verification": "https://www.youtube.com/watch?v=E5L083YQzVE",
+    "percentToQualify": 50,
+    "password": "mf",
+    "records": [
+        {
+            "user": "oli",
+            "link": "https://www.youtube.com/watch?v=E5L083YQzVE",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
