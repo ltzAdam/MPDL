@@ -1,1 +1,19 @@
 
+{
+    "id": 94229602,
+    "name": "Tricker",
+    "author": "UsteX",
+    "creators": ["UsteX"],
+    "verifier": "MiserablePizza",
+    "verification": "https://www.youtube.com/watch?v=OEsBxnMSGCo",
+    "percentToQualify": 50,
+    "password": "idk",
+    "records": [
+        {
+            "user": "MiserablePizza",
+            "link": "https://www.youtube.com/watch?v=OEsBxnMSGCo",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
