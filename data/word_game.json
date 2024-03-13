@@ -1,1 +1,19 @@
 
+{
+    "id": 83019263,
+    "name": "WORD GAME",
+    "author": "phylactic",
+    "creators": ["phylactic"],
+    "verifier": "oli",
+    "verification": "https://www.youtube.com/watch?v=NWMzw7rlviI",
+    "percentToQualify": 50,
+    "password": "idk",
+    "records": [
+        {
+            "user": "oli",
+            "link": "https://www.youtube.com/watch?v=NWMzw7rlviI",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
