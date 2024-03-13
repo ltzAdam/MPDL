@@ -1,1 +1,43 @@
 
+{
+    "id": 14,
+    "name": "Clubstep",
+    "author": "RobtopGames",
+    "creators": ["RobtopGames"],
+    "verifier": "oli",
+    "verification": "https://www.youtube.com/watch?v=WX87jcaczZQ",
+    "percentToQualify": 50,
+    "password": "mf",
+    "records": [
+        {
+            "user": "oli",
+            "link": "https://www.youtube.com/watch?v=WX87jcaczZQ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "TikiCat",
+            "link": "https://www.youtube.com/watch?v=WX87jcaczZQ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "MiserablePizza",
+            "link": "https://www.youtube.com/watch?v=WX87jcaczZQ",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "jexamania",
+            "link": "https://www.youtube.com/watch?v=WX87jcaczZQ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "highoncatnip_",
+            "link": "https://www.youtube.com/watch?v=WX87jcaczZQ",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
