@@ -1,1 +1,19 @@
 
+{
+    "id": 77031301,
+    "name": "Crossroads",
+    "author": "mbed",
+    "creators": ["mbed"],
+    "verifier": "oli",
+    "verification": "https://www.youtube.com/watch?v=_lHQIIb9cek",
+    "percentToQualify": 50,
+    "password": "idk",
+    "records": [
+        {
+            "user": "oli",
+            "link": "https://www.youtube.com/watch?v=_lHQIIb9cek",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
