@@ -1,1 +1,19 @@
 
+{
+    "id": 97660104,
+    "name": "Friendly Menace",
+    "author": "SeMenteGD",
+    "creators": ["SeMenteGD"],
+    "verifier": "jexamania",
+    "verification": "https://www.youtube.com/watch?v=B1kdUqnH7TE",
+    "percentToQualify": 50,
+    "password": "idk",
+    "records": [
+        {
+            "user": "jexamania",
+            "link": "https://www.youtube.com/watch?v=B1kdUqnH7TE",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
