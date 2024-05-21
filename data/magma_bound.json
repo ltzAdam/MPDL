@@ -1,1 +1,18 @@
-
+{
+    "id": 56568010,
+    "name": "Magma Bound",
+    "author": "ScorchVX",
+    "creators": ["ScorchVX"],
+    "verifier": "jexamania",
+    "verification": "https://www.youtube.com/watch?v=B3C6XVjpSJ4",
+    "percentToQualify": 50,
+    "password": "idk",
+    "records": [
+        {
+            "user": "jexamania",
+            "link": "https://www.youtube.com/watch?v=B3C6XVjpSJ4",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
