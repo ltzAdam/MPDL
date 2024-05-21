@@ -1,1 +1,19 @@
 
+{
+    "id": 72943745,
+    "name": "Virtue",
+    "author": "GateMount",
+    "creators": ["GateMount"],
+    "verifier": "MierablePizza",
+    "verification": "https://youtu.be/Fwaz_XbJPR4?si=2HZ7mLCeMa_oZb9z",
+    "percentToQualify": 64,
+    "password": "doesnt have one",
+    "records": [
+        {
+            "user": "MiserablePizza",
+            "link": "https://youtu.be/Fwaz_XbJPR4?si=2HZ7mLCeMa_oZb9z",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
